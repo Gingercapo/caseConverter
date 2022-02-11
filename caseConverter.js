@@ -36,7 +36,6 @@ SaveTextFile.addEventListener("click", function () {
 },false);
 
 
-
      function upperFirst(words) {
     for (let i = 0; i < words.length; i++) {
         let word = words[i];
