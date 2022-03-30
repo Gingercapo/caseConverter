@@ -9,4 +9,4 @@ I Don't really need to rewrite the entire text? Of course not. Let's me create a
 I can convert the text into different cases and save them automatically  as text file, excellent! 
 
 
-https://wordpress.com/customize/nedubusinessanalyst000webhostapp.wordpress.com
+
